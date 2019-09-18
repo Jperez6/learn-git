@@ -13,3 +13,4 @@ add (file name)<br>
 commit -m ("message")<br>
 push (push code to github)<br>
 log (see log history)<br>
+q (ends log prompt)<br>
